@@ -41,6 +41,8 @@ For much more, check out my website 😁
 ![Terraform](https://img.shields.io/badge/Terraform-623AA2.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0969A8.svg?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 <!--
 ### 📊 Stats
