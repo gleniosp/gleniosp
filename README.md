@@ -44,9 +44,9 @@ For much more, check out my website 😁
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-<!--
 ### 📊 Stats
+
+**Note:** I used Java/Spring extensively early in my career, and I still have some older projects using them, which is reflected in my GitHub stats, hehe. However, I have more experience with Python and JavaScript/TypeScript, even though I have fewer open-source projects using those technologies.
 
 ![gleniosp's GitHub stats](https://github-stats-extended.vercel.app/api?username=gleniosp&show_icons=true)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gleniosp&layout=donut)](https://github.com/stats-organization/github-stats-extended)
--->
