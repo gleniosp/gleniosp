@@ -12,7 +12,8 @@
   /></a>
 </p>
 
-I'm a Senior Software Engineer with 8 years of experience in distributed systems, backend services, data engineering, cloud services, and web applications. Led integrations and real-time and batch pipelines across fintech, marketing, and customer platforms. With a Mechatronics Engineering background, I aim to bring reliable backend systems and data platforms to Robotics, Physical AI, and IoT.
+I'm a Senior Backend Engineer with 8 years of experience building distributed systems, backend services, data platforms, cloud services, and web applications. I have led system integrations, real-time and batch data pipelines, and production software across fintech, marketing,
+and customer platforms. My work includes a payroll lending platform that issued 1 million BRL in payroll loans, personalized experiences for thousands of customers, and cloud services with potential reach across millions of devices. I focus on reliable backend architecture, data engineering, and systems that scale.
 
 Check out main GitHub projects below.
 
