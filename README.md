@@ -12,7 +12,7 @@
   /></a>
 </p>
 
-I'm a Senior Backend Engineer with 8 years of experience building backend services, distributed systems, data platforms, and cloud applications. I have mentored engineers, designed and delivered system integrations, built real-time and batch data pipelines, and developed production software across fintech, marketing, and customer-facing platforms. My work includes a payroll lending platform that I built with a small team and that issued 1 million BRL in payroll loans after one year; personalized experiences for millions of customers at the world's largest meal kit company; full infrastructure automation; observability and monitoring for several cloud services; and service optimization to reduce response times and latency. I focus on reliable backend architecture, data-intensive applications, and systems that scale. Currently, I'm particularly interested in applying my backend experience to robotics and industrial applications.
+I'm a Senior Backend Engineer with **8 years of experience** building distributed systems, data platforms, and cloud applications. I've worked across fintech, marketing, and customer-facing products, from building a lending platform that issued **1 million BRL in loans** in its first year to delivering personalized experiences for **millions of customers**. My work focuses on scalable backend architecture, data pipelines, infrastructure automation, and performance optimization. I'm currently interested in bringing my backend experience into **robotics and industrial applications**.
 
 Check out main GitHub projects below.
 
