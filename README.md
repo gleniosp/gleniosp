@@ -41,11 +41,13 @@ For much more, check out my website 😁
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0969A8.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 ### 📊 Stats
 
-**Note:** I used Java/Spring extensively early in my career, and I still have some older projects using them, which is reflected in my GitHub stats, hehe. However, I have more experience with Python and JavaScript/TypeScript, even though I have fewer open-source projects using those technologies.
+**Note:** I used Java/Spring extensively early in my career, and I still have some older projects using them, which is reflected in my GitHub stats. However, I have more experience with Python and JavaScript/TypeScript, even though I have fewer open-source projects using those technologies.
 
 ![gleniosp's GitHub stats](https://github-stats-extended.vercel.app/api?username=gleniosp&show_icons=true)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gleniosp&layout=donut)](https://github.com/stats-organization/github-stats-extended)
