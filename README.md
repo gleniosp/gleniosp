@@ -33,8 +33,8 @@ For much more, check out my website 😁
 ![GCP](https://img.shields.io/badge/Google_Cloud-1769AA.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-B8470E.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0065A8.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-18202B.svg?style=for-the-badge&logo=prefect&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-C72B1C.svg?style=for-the-badge&logo=databricks&logoColor=white)
+<!--![Prefect](https://img.shields.io/badge/Prefect-18202B.svg?style=for-the-badge&logo=prefect&logoColor=white)-->
+<!--![Databricks](https://img.shields.io/badge/Databricks-C72B1C.svg?style=for-the-badge&logo=databricks&logoColor=white)-->
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2855A6.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623AA2.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -45,9 +45,11 @@ For much more, check out my website 😁
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
+<!--
 ### 📊 Stats
 
 **Note:** I used Java/Spring extensively early in my career, and I still have some older projects using them, which is reflected in my GitHub stats. However, I have more experience with Python and JavaScript/TypeScript, even though I have fewer open-source projects using those technologies.
 
 ![gleniosp's GitHub stats](https://github-stats-extended.vercel.app/api?username=gleniosp&show_icons=true)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gleniosp&layout=donut)](https://github.com/stats-organization/github-stats-extended)
+-->
